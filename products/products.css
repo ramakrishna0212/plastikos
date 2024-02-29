@@ -1,0 +1,47 @@
+*{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+body{ 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+}
+.aboutus{
+    padding-left: 82%;
+    padding-top: 5%;
+}
+.aboutus a{
+    padding: 0px 13px;
+    color: #000000;
+}
+.homepage{
+    padding-top: 8%;
+    padding-left: 14%;
+    font-size: larger;
+}
+.intro{
+    margin: -1%;
+    padding: 2%;
+    padding-left: 46%;
+    font-size: 274%;
+    letter-spacing: 2px;
+    font-weight: 900;
+}
+.imae{
+    margin-top: -7%;
+    padding-left: 4%;
+}
+.ynwa{
+    padding-left: 7%;
+}
+.container {
+    width: 49%;
+    padding-left: 45%;
+}
+  
+.down{    
+    font-family: sans-serif;
+    MARGIN-left: 86%;
+    font-size: 11px;
+    font-weight: bolder;
+}
